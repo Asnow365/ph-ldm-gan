@@ -13,7 +13,7 @@ POI-conditioned hybrid latent diffusion GAN for land-use map generation
 It bridges semantic conditioning (via POI distributions) and spatial realism (via adversarial supervision), enabling automatic synthesis of fine-grained land-use layouts that align with real-world morphological patterns.
 
 <p align="center">
-  <img src="ph-ldm-gan/workflow.jpg" width="80%" alt="PH-LDM-GAN Framework Overview">
+  <img src="ph-ldm-gan/ph-ldm-gan/workflow.jpg" width="80%" alt="PH-LDM-GAN Framework Overview">
 </p>
 
 ---
